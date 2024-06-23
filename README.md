@@ -23,7 +23,7 @@ The primary dataset used for this analysis is the "olympic_medals.csv" file, con
 
 ### Tools
 - Excel - Data Cleaning [Download here](https://microsoft.com)
-- Tableau - Visualization 
+- Tableau - Creating Visualization 
 
 
 
