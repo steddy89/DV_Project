@@ -3,7 +3,7 @@ During my MBA studies at Johns Hopkins University, I developed a strong interest
 
 I also had the opportunity to be a Teaching Assistant for the Data Visualization Course under Professor Mohammad Yazdi. In this role, I helped facilitate over 200 students in both the MS and MBA programs, assisting them in completing their exciting data visualization projects. You can check out their amazing projects here: (https://github.com/malamdar90/Tableau-Data-Visualization-Projects)
 
-Through this platform, I aim to share some of my projects, showcasing my skills and enthusiasm in data analytics and visualization. I hope this helps fellow data science and visualization enthusiasts to learn and share ideas.
+Through this platform, I aim to share some of my projects, showcasing my skills and enthusiasm in data analytics and visualization. I hope this helps data science and visualization enthusiasts to learn and share ideas.
 
 ## Step of Data Analytics Project
     - Determining the questions/insight you are going to address in the dashboard
