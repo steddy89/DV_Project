@@ -13,7 +13,7 @@ Through this platform, I aim to share some of my projects, showcasing my skills 
     - Analysis: Confirmation
     - Interpreting and reporting the results
 
-## 1. Olympic Medals by Country
+## 1. Olympic Medals Dashboard
 
 ### Project Overview
 This data analysis project aims to provide insights into the performance of various countries in the Olympic Games over the years. By analyzing the medal counts and other relevant data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the countries' performance
