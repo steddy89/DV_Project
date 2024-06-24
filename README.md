@@ -24,6 +24,10 @@ This data visualization project aims to provide insights into the performance of
 ### Data Sources
 The primary dataset used for this analysis is the "olympic_medals.csv" file, containing detailed information about the number of medals won by each country in the Olympic Games over the years. This dataset includes variables such as country name, year, type of medal (gold, silver, bronze), and total medal count.
 
+### Tools
+- Excel - Data Cleaning [Download here](https://microsoft.com)
+- Tableau - Creating Visualization 
+
 ### Data Analysis
 
 ### Results/Findings
@@ -34,9 +38,7 @@ The primary dataset used for this analysis is the "olympic_medals.csv" file, con
 
 ### References
 
-### Tools
-- Excel - Data Cleaning [Download here](https://microsoft.com)
-- Tableau - Creating Visualization 
+
 
 
 
