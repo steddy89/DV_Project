@@ -13,6 +13,9 @@ Through this platform, I aim to share some of my projects, showcasing my skills 
     - Analysis: Confirmation
     - Interpreting and reporting the results
 
+## Table of Content
+- [1. Olympic Medals Dashboard](#1.-Olympic-Medals-Dashboard)
+
 ## 1. Olympic Medals Dashboard
 
 ### Project Overview
@@ -20,6 +23,16 @@ This data visualization project aims to provide insights into the performance of
 
 ### Data Sources
 The primary dataset used for this analysis is the "olympic_medals.csv" file, containing detailed information about the number of medals won by each country in the Olympic Games over the years. This dataset includes variables such as country name, year, type of medal (gold, silver, bronze), and total medal count.
+
+### Data Analysis
+
+### Results/Findings
+
+### Recommendations
+
+### Limitations
+
+### References
 
 ### Tools
 - Excel - Data Cleaning [Download here](https://microsoft.com)
